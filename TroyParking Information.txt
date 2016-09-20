@@ -1,0 +1,21 @@
+Due to some of the features we've implemented, you will need a troy.edu email address to register.
+This requires the user to click a validation link in an email as well. If you would like to play
+with the system we have created, use the log-in credentials below. You will need 2 users to use the
+site correctly.
+
+**How the system works**
+A user must first hold a spot. This process is pretty straightforward. Once the user holds the
+spot, he/she will not be able to leave the hold page until the hold is canceled or someone takes their
+spot and the transaction can be completed. A finder can view by lot, which is different depending on the
+users parking privileges. The two users included are both students and will be able to share
+spots.
+
+**Features not mentioned**
+Clicking the profile picture sends the user to a profile page where he/she can change their profile
+image, add/remove vehicles, update vehicle images, and examine their current stats.
+
+User: amart@troy.edu
+pass: heyhey
+
+User: bthumma@troy.edu
+pass: bala1
