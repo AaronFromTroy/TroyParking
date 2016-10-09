@@ -1,3 +1,7 @@
+All information below is for a web project my team and I created called TroyParking. TroyParking was designed to allow students and faculty of Troy University to buy and sell parking spots for a digital currency known as tickets. This application was developed for a web development course taught my Dr. Bill Zhong, Troy University Computer Science Chair.
+
+URL: http://www.troyparking.com
+
 Due to some of the features we've implemented, you will need a troy.edu email address to register.
 This requires the user to click a validation link in an email as well. If you would like to play
 with the system we have created, use the log-in credentials below. You will need 2 users to use the
