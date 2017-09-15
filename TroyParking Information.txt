@@ -1,3 +1,6 @@
+#THIS SITE IS CURRENTLY DOWN UNTIL I RENEW MY GODADDY ACCOUNT
+##SORRY
+
 All information below is for a web project my team and I created called TroyParking. TroyParking was designed to allow students and faculty of Troy University to buy and sell parking spots for a digital currency known as tickets. This application was developed for a web development course taught my Dr. Bill Zhong, Troy University Computer Science Chair.
 
 URL: http://www.troyparking.com
